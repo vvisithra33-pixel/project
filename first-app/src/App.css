@@ -1,0 +1,185 @@
+.page img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+   .box{
+            width: 250px;
+            height: 250px;
+            background-color: #f4f6f8;
+            display: flex;
+            flex-direction: column;
+        
+            align-items: center;
+           
+            margin: 10px;
+            margin-inline-start: 55px;
+            margin-top: 120px;
+        }
+        .fa-car {
+              
+          background-color: #ffb524;
+            border-radius: 5px;
+           
+         
+            color: white;
+           
+         
+                
+            }
+            .fa-shield {
+             
+              background-color: #ffb524;
+            border-radius: 5px;
+           
+         
+            color: white;
+
+            }
+            .fa-exchange {
+                 background-color: #ffb524;
+            border-radius: 5px;
+           
+         
+            color: white;
+
+            }
+            .fa-phone {
+               background-color: #ffb524;
+            border-radius: 5px;
+           
+         
+            color: white;
+
+            }
+            .row {
+              position: absolute;
+              top: 500px;
+            }
+            .rov {
+                border-style: solid;
+                 width: 70px;
+                 height: 40px;
+                 border-radius: 30px;
+                 position: absolute;
+                 top: 2480px;
+                  left: 1000px;
+                   color: #ffb524;
+                
+                
+                 
+            }
+            .vor {
+                border-style: solid;
+                  width: 70px;
+                  height: 40px;
+                position: absolute;
+                left: 1090px;
+                border-radius: 30px;
+                top: 2480px;
+                color: #ffb524;
+                
+                
+            }
+           .fa-arrow-left {
+            position: absolute;
+            left: 25px;
+            top: 10px;
+           }
+            .fa-arrow-right {
+              position: absolute;
+              left: 25px;
+              top: 10px;
+            }
+            .rov:hover {
+              background-color: #ffb524;
+              color: white;
+              cursor: pointer;
+            }
+            .vor:hover {
+              background-color: #ffb524;
+              color: white;
+              cursor: pointer;}
+              .fresh-organic {
+              position: absolute;
+              top: 2480px;
+              left: 50px;
+              color: green;
+              }
+          
+             .fa-lock {
+              color: green;
+              font-size: 30px;
+              position: absolute;
+              left: 1120px;
+             }
+            .fa-user {
+              color: green;
+              font-size: 30px;
+              position: absolute;
+              left: 1170px;
+              
+             
+              
+            }
+            .fa-search {
+              color: green;
+              position: absolute;
+              top: 15px;
+              left: 15px;
+              
+            }
+           .search:hover {
+            background-color: orange;
+           }
+           .fresh {
+            position: absolute;
+            top: 2380px;
+            color:  green;
+            left: 20px;
+           }
+           .eor {
+            position: relative;
+            bottom: 710px;
+            left: 1050px;
+            border-style: solid;
+            width: 70px;
+            height: 40px;
+            border-radius: 30px;
+               color: #ffb524;
+           }
+           .kor {
+              position: relative;
+                 bottom: 750px;
+            
+            left: 1150px;
+            border-style: solid;
+            width: 70px;
+            height: 40px;
+            border-radius: 30px;
+            color: #ffb524;
+          
+           
+           }
+            .kor:hover {
+              background-color: #ffb524;
+              color: white;
+              cursor: pointer;
+            }
+             .eor:hover {
+              background-color: #ffb524;
+              color: white;
+              cursor: pointer;
+            }
+                     .form-control:hover {
+            background-color: orange; /* Bootstrap primary color */
+    color: white;
+    border-color: orange;
+    transition: 0.3s;
+  
+          }
+
+           
+
+
+ 
