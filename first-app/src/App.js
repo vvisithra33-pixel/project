@@ -1,9 +1,11 @@
 import './App.css';
-import Navbar from './components/Navbar';
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ProductGallery from './components/ProductGallery';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
+import Navbar from './components/Navbar';
+
 import Fox from './pages/Fox';
 import Arrow from './pages/Arrow';
 import Joe from './pages/Joe';
